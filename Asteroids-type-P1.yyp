@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "14406002-ec7f-429e-8a65-ed7c94afa040",
+            "Value": {
+                "id": "a8aa4d06-daa0-4a65-8fe6-a29c537c43bb",
+                "resourcePath": "objects\\obj_player\\obj_player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "19f8aad5-975d-4b8b-bd47-1c7ba0283ed9",
             "Value": {
                 "id": "30a829bc-3d84-44e4-8a09-4d06d31c3c1a",
@@ -76,6 +84,14 @@
                 "id": "da9b5dc4-fc9a-4ff3-aedc-b4882a8350e1",
                 "resourcePath": "rooms\\rm_game\\rm_game.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "5e77bebd-23b5-49e5-af84-46435d6d0e73",
+            "Value": {
+                "id": "b16e374c-e10c-4f83-9f6c-e000af8c6016",
+                "resourcePath": "sounds\\sound0\\sound0.yy",
+                "resourceType": "GMSound"
             }
         },
         {
