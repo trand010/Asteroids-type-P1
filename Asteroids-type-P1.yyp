@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "08894f64-1e65-47b9-8cca-c5a3c2bfa4b0",
+            "Value": {
+                "id": "b855a8fc-a770-4a57-b2da-97114e6d4dcc",
+                "resourcePath": "fonts\\font_in_game\\font_in_game.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "14406002-ec7f-429e-8a65-ed7c94afa040",
             "Value": {
                 "id": "a8aa4d06-daa0-4a65-8fe6-a29c537c43bb",
@@ -60,14 +68,6 @@
                 "id": "9931acfd-6938-4624-87b2-963fd8f3e61a",
                 "resourcePath": "views\\22add0ce-c0f3-4a7e-92fd-dfe50a779425.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "2d25a945-bf2f-4557-9b1a-fa77edc49fc4",
-            "Value": {
-                "id": "fb080a0b-3a4e-4f87-a12b-9135cf012d78",
-                "resourcePath": "objects\\obj_game_over\\obj_game_over.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -292,6 +292,14 @@
                 "id": "2c578b3f-6d67-4d02-aab0-0d906321bb0a",
                 "resourcePath": "views\\e4b6942f-128f-4352-95f7-1fa53693033b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e809f8e9-b8d5-42a6-9a7b-379c073e2935",
+            "Value": {
+                "id": "96eef010-4aca-4798-974d-87334b35ef6e",
+                "resourcePath": "objects\\obj_controller\\obj_controller.yy",
+                "resourceType": "GMObject"
             }
         },
         {
