@@ -19,3 +19,9 @@ __dnd_score = real(0);
 /// @DnDHash : 1A58B526
 /// @DnDArgument : "code" "secs = 0;$(13_10)"
 secs = 0;
+
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 354018F5
+/// @DnDArgument : "var" "end_time"
+global.end_time = 0;
