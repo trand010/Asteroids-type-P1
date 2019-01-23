@@ -11,7 +11,7 @@
     "bbox_right": 31,
     "bbox_top": 1,
     "bboxmode": 0,
-    "colkind": 1,
+    "colkind": 0,
     "coltolerance": 0,
     "edgeFiltering": false,
     "frames": [
@@ -103,7 +103,7 @@
     "playbackSpeed": 15,
     "playbackSpeedType": 0,
     "premultiplyAlpha": false,
-    "sepmasks": false,
+    "sepmasks": true,
     "swatchColours": [
         4278190335,
         4278255615,
